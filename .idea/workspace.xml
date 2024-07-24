@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8eaa3af8-0ab8-4438-a206-995455ad22bd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pythonPrograms.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pattern Programs/Cross pattern program.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pattern Programs/Diamond Star Pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pattern Programs/Heart pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pattern Programs/Hollow Diamond Star Pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pattern Programs/Hollow Pyramid Pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pattern Programs/Hollow Rectangle Star Pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pattern Programs/Hollow triangle star Pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pattern Programs/Hourglass Star Pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pattern Programs/Left Downward Triangle Pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pattern Programs/Left Pascal Star Pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pattern Programs/Left Triangle Star Pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pattern Programs/Parallelogram Star Pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pattern Programs/Plus pattern program.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pattern Programs/Pyramid Pattern in python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pattern Programs/Rectangle Star Pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pattern Programs/Reverse Pyramid Pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pattern Programs/Rhombus Star Pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pattern Programs/Right Downward Triangle Pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pattern Programs/Right Pascal Star Pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pattern Programs/Right Triangle Star Pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pattern Programs/Square Star Pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pattern Programs/hollow square star pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/Binary to Decimal Conversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/Calculating the area of circle .py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/Checking a Character is a vowel or consonant in Python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/Checking whether a Character is Alphabet or Not in Python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/Decimal to binary conversion in Python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/HCF of Two Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/Hexadecimal to Decimal Conversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/LCM Of Two Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/LCM of Three Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/Number of days in a given month of a given year.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/Octal To Decimal Conversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/PrimeNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/find ASCII values of a character.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2jgJJKGR9po2No59fp3ErzksmKG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Binary to Decimal Conversion.executor": "Run",
+    "Python.Calculating the area of circle .executor": "Run",
+    "Python.Checking a Character is a vowel or consonant in Python.executor": "Run",
+    "Python.Checking whether a Character is Alphabet or Not in Python.executor": "Run",
+    "Python.Cross pattern program.executor": "Run",
+    "Python.Decimal to binary conversion in Python.executor": "Run",
+    "Python.Diamond Star Pattern.executor": "Run",
+    "Python.HCF of Two Numbers.executor": "Run",
+    "Python.Heart pattern.executor": "Run",
+    "Python.Hexadecimal to Decimal Conversion.executor": "Run",
+    "Python.Hollow Diamond Star Pattern.executor": "Run",
+    "Python.Hollow Pyramid Pattern.executor": "Run",
+    "Python.Hollow Rectangle Star Pattern.executor": "Run",
+    "Python.Hollow triangle star Pattern.executor": "Run",
+    "Python.Hourglass Star Pattern.executor": "Run",
+    "Python.LCM Of Two Number.executor": "Run",
+    "Python.LCM of Three Numbers.executor": "Run",
+    "Python.Left Downward Triangle Pattern.executor": "Run",
+    "Python.Left Pascal Star Pattern.executor": "Run",
+    "Python.Left Triangle Star Pattern.executor": "Run",
+    "Python.Number of days in a given month of a given year.executor": "Run",
+    "Python.Octal To Decimal Conversion.executor": "Run",
+    "Python.Parallelogram Star Pattern.executor": "Run",
+    "Python.Plus pattern program.executor": "Run",
+    "Python.PrimeNumber.executor": "Run",
+    "Python.Pyramid Pattern in python.executor": "Run",
+    "Python.Rectangle Star Pattern.executor": "Run",
+    "Python.Reverse Pyramid Pattern.executor": "Run",
+    "Python.Rhombus Star Pattern.executor": "Run",
+    "Python.Right Downward Triangle Pattern.executor": "Run",
+    "Python.Right Pascal Star Pattern.executor": "Run",
+    "Python.Right Triangle Star Pattern.executor": "Run",
+    "Python.Square Star Pattern.executor": "Run",
+    "Python.find ASCII values of a character.executor": "Run",
+    "Python.hollow square star pattern.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Python\pythonPrograms\pythonPrograms" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pythonPrograms" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-67fca87a943a-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.11799.259" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8eaa3af8-0ab8-4438-a206-995455ad22bd" name="Changes" comment="" />
+      <created>1721802713839</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721802713839</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
