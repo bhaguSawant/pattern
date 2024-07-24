@@ -4,49 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8eaa3af8-0ab8-4438-a206-995455ad22bd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonPrograms.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pattern Programs/Cross pattern program.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pattern Programs/Diamond Star Pattern.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pattern Programs/Heart pattern.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pattern Programs/Hollow Diamond Star Pattern.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pattern Programs/Hollow Pyramid Pattern.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pattern Programs/Hollow Rectangle Star Pattern.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pattern Programs/Hollow triangle star Pattern.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pattern Programs/Hourglass Star Pattern.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pattern Programs/Left Downward Triangle Pattern.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pattern Programs/Left Pascal Star Pattern.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pattern Programs/Left Triangle Star Pattern.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pattern Programs/Parallelogram Star Pattern.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pattern Programs/Plus pattern program.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pattern Programs/Pyramid Pattern in python.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pattern Programs/Rectangle Star Pattern.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pattern Programs/Reverse Pyramid Pattern.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pattern Programs/Rhombus Star Pattern.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pattern Programs/Right Downward Triangle Pattern.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pattern Programs/Right Pascal Star Pattern.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pattern Programs/Right Triangle Star Pattern.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pattern Programs/Square Star Pattern.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pattern Programs/hollow square star pattern.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programs/Binary to Decimal Conversion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programs/Calculating the area of circle .py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programs/Checking a Character is a vowel or consonant in Python.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programs/Checking whether a Character is Alphabet or Not in Python.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programs/Decimal to binary conversion in Python.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programs/HCF of Two Numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programs/Hexadecimal to Decimal Conversion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programs/LCM Of Two Number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programs/LCM of Three Numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programs/Number of days in a given month of a given year.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programs/Octal To Decimal Conversion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programs/PrimeNumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programs/find ASCII values of a character.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="8eaa3af8-0ab8-4438-a206-995455ad22bd" name="Changes" comment="Pattern &amp; Number programs">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,6 +72,11 @@
     "Python.hollow square star pattern.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
@@ -160,7 +124,20 @@
       <option name="presentableId" value="Default" />
       <updated>1721802713839</updated>
     </task>
+    <task id="LOCAL-00001" summary="Pattern &amp; Number programs">
+      <option name="closed" value="true" />
+      <created>1721815266905</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1721815266905</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Pattern &amp; Number programs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pattern &amp; Number programs" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
