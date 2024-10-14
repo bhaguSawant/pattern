@@ -5,6 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8eaa3af8-0ab8-4438-a206-995455ad22bd" name="Changes" comment="Pattern &amp; Number programs">
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coding Round Program/Fibonacci Sequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coding Round Program/FindCommonElement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coding Round Program/FindFactorialNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coding Round Program/FindLargestNumberInList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coding Round Program/FindSecondLargestElement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coding Round Program/Merge Two Sorted List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coding Round Program/NumberIsPrimeNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coding Round Program/PalindromeStringCheck.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coding Round Program/Print 1 to 30 number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coding Round Program/Print even number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coding Round Program/RemoveDuplicateNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coding Round Program/ReverseString.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Therotical Question On Python/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,11 +34,30 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;bhaguSawant&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/bhaguSawant/pattern&quot;,
+    &quot;accountId&quot;: &quot;adaf17e2-ac64-4c6a-945a-725027a50441&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2jgJJKGR9po2No59fp3ErzksmKG" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -42,6 +75,11 @@
     "Python.Cross pattern program.executor": "Run",
     "Python.Decimal to binary conversion in Python.executor": "Run",
     "Python.Diamond Star Pattern.executor": "Run",
+    "Python.Fibonacci Sequence.executor": "Run",
+    "Python.FindCommonElement.executor": "Run",
+    "Python.FindFactorialNumber.executor": "Run",
+    "Python.FindLargestNumberInList.executor": "Run",
+    "Python.FindSecondLargestElement.executor": "Run",
     "Python.HCF of Two Numbers.executor": "Run",
     "Python.Heart pattern.executor": "Run",
     "Python.Hexadecimal to Decimal Conversion.executor": "Run",
@@ -55,14 +93,21 @@
     "Python.Left Downward Triangle Pattern.executor": "Run",
     "Python.Left Pascal Star Pattern.executor": "Run",
     "Python.Left Triangle Star Pattern.executor": "Run",
+    "Python.Merge Two Sorted List.executor": "Run",
     "Python.Number of days in a given month of a given year.executor": "Run",
+    "Python.NumberIsPrimeNumber.executor": "Run",
     "Python.Octal To Decimal Conversion.executor": "Run",
+    "Python.PalindromeStringCheck.executor": "Run",
     "Python.Parallelogram Star Pattern.executor": "Run",
     "Python.Plus pattern program.executor": "Run",
     "Python.PrimeNumber.executor": "Run",
+    "Python.Print 1 to 30 number.executor": "Run",
+    "Python.Print even number.executor": "Run",
     "Python.Pyramid Pattern in python.executor": "Run",
     "Python.Rectangle Star Pattern.executor": "Run",
+    "Python.RemoveDuplicateNumber.executor": "Run",
     "Python.Reverse Pyramid Pattern.executor": "Run",
+    "Python.ReverseString.executor": "Run",
     "Python.Rhombus Star Pattern.executor": "Run",
     "Python.Right Downward Triangle Pattern.executor": "Run",
     "Python.Right Pascal Star Pattern.executor": "Run",
@@ -71,7 +116,10 @@
     "Python.find ASCII values of a character.executor": "Run",
     "Python.hollow square star pattern.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "advanced.settings"
   },
   "keyToStringList": {
     "ChangesTree.GroupingKeys": [
@@ -81,6 +129,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Python\pythonPrograms\pythonPrograms\Coding Round Program" />
       <recent name="C:\Python\pythonPrograms\pythonPrograms" />
     </key>
   </component>
@@ -111,7 +160,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-67fca87a943a-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.11799.259" />
+        <option value="bundled-python-sdk-abccbe9d933a-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.20224.428" />
       </set>
     </attachedChunks>
   </component>
@@ -132,7 +181,23 @@
       <option name="project" value="LOCAL" />
       <updated>1721815266905</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Pattern &amp; Number programs">
+      <option name="closed" value="true" />
+      <created>1721816614062</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1721816614062</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Pattern &amp; Number programs">
+      <option name="closed" value="true" />
+      <created>1721816811527</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1721816811527</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
