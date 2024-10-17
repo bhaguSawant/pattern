@@ -4,22 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8eaa3af8-0ab8-4438-a206-995455ad22bd" name="Changes" comment="Pattern &amp; Number programs">
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Coding Round Program/Fibonacci Sequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Coding Round Program/FindCommonElement.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Coding Round Program/FindFactorialNumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Coding Round Program/FindLargestNumberInList.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Coding Round Program/FindSecondLargestElement.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Coding Round Program/Merge Two Sorted List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Coding Round Program/NumberIsPrimeNumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Coding Round Program/PalindromeStringCheck.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Coding Round Program/Print 1 to 30 number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Coding Round Program/Print even number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Coding Round Program/RemoveDuplicateNumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Coding Round Program/ReverseString.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Therotical Question On Python/README.md" afterDir="false" />
+    <list default="true" id="8eaa3af8-0ab8-4438-a206-995455ad22bd" name="Changes" comment="Coding Round Question">
+      <change afterPath="$PROJECT_DIR$/Coding Round Program/Conver list to dicronary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coding Round Program/Find common letter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coding Round Program/remove duplicate number.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding Round Program/Print 1 to 30 number.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coding Round Program/Print 1 to 30 number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding Round Program/ReverseString.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coding Round Program/ReverseString.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,10 +63,12 @@
     "Python.Calculating the area of circle .executor": "Run",
     "Python.Checking a Character is a vowel or consonant in Python.executor": "Run",
     "Python.Checking whether a Character is Alphabet or Not in Python.executor": "Run",
+    "Python.Conver list to dicronary.executor": "Run",
     "Python.Cross pattern program.executor": "Run",
     "Python.Decimal to binary conversion in Python.executor": "Run",
     "Python.Diamond Star Pattern.executor": "Run",
     "Python.Fibonacci Sequence.executor": "Run",
+    "Python.Find common letter.executor": "Run",
     "Python.FindCommonElement.executor": "Run",
     "Python.FindFactorialNumber.executor": "Run",
     "Python.FindLargestNumberInList.executor": "Run",
@@ -115,6 +108,7 @@
     "Python.Square Star Pattern.executor": "Run",
     "Python.find ASCII values of a character.executor": "Run",
     "Python.hollow square star pattern.executor": "Run",
+    "Python.remove duplicate number.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -197,12 +191,21 @@
       <option name="project" value="LOCAL" />
       <updated>1721816811527</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Coding Round Question">
+      <option name="closed" value="true" />
+      <created>1728899080101</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728899080101</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Pattern &amp; Number programs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pattern &amp; Number programs" />
+    <MESSAGE value="Coding Round Question" />
+    <option name="LAST_COMMIT_MESSAGE" value="Coding Round Question" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
